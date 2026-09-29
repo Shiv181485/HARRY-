@@ -328,7 +328,7 @@ This project brings together several practical software engineering and AI domai
 
 ## License
 
-See the repository's `LICENSE` file for licensing terms. Retain any required original project attribution and third-party notices when distributing modified code.
+This project is licensed under the MIT License. You are free to use, modify, and distribute it in accordance with the license terms. See the [LICENSE](LICENSE) file for details.
 
 ## Author
 
